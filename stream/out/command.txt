@@ -1,0 +1,1 @@
+BURN C:\Users\turbo\gt\sass-lighter\test.scss C:\Users\turbo\gt\sass-lighter\test.css
